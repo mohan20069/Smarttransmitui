@@ -108,7 +108,7 @@ Settings & alerts page
 
 🚀 How to Run (Development)
 # Clone the repo
-git clone https://github.com/mohan20069/SmartTransitUI.git
+git clone https://github.com/mohan20069/Smarttransitui.git
 
 # Move into project folder
 cd SmartTransitUI
